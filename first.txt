@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+yo otaku
+1212
+=======
 fsdsdfsdfsdf
 fsdsdfsdf
+>>>>>>> main
